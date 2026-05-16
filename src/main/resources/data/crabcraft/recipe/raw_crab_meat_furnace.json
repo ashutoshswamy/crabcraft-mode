@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "crabcraft:raw_crab_meat"
+  },
+  "result": {
+    "id": "crabcraft:crab_claw"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

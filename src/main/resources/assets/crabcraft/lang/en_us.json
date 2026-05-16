@@ -1,0 +1,10 @@
+{
+  "entity.crabcraft.crab": "Crab",
+  "item.crabcraft.crab_claw": "Crab Claw",
+  "item.crabcraft.raw_crab_meat": "Raw Crab Meat",
+
+  "itemGroup.crabcraft.main": "CrabCraft",
+
+  "advancements.crabcraft.get_crab_claw.title": "Claws of the Tide",
+  "advancements.crabcraft.get_crab_claw.description": "Obtain a Crab Claw from a wild crab"
+}

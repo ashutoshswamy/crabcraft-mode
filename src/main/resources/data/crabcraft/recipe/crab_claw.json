@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " RC",
+    " SR",
+    "S  "
+  ],
+  "key": {
+    "R": {
+      "item": "crabcraft:raw_crab_meat"
+    },
+    "C": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "crabcraft:crab_claw",
+    "count": 1
+  }
+}

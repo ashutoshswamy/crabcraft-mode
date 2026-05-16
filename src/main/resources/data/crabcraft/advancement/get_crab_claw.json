@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "has_crab_claw": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["crabcraft:crab_claw"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#crabcraft:has_crab_spawns",
+  "spawners": {
+    "type": "crabcraft:crab",
+    "weight": 22,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}
