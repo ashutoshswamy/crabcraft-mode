@@ -7,7 +7,7 @@ modId="crabcraft"
 version="1.0.0"
 displayName="CrabCraft"
 logoFile="modicon.png"
-authors="Ashu"
+authors="Ashutosh Swamy"
 description='''
 Adds crabs, crab loot, and a Crab Claw dash ability.
 '''
